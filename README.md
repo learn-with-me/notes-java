@@ -1,4 +1,6 @@
 # Notes - Java
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This file serves as preface, a place describing book's content and ideas related to Java.
+
+
 
