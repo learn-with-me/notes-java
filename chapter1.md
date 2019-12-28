@@ -1,5 +1,26 @@
 # Installation
 
+### SDKMan \(preferred\)
+
+```
+Install via script
+$ curl -s "https://get.sdkman.io" | bash
+$ source "$HOME/.sdkman/bin/sdkman-init.sh"
+
+Verify Installation
+$ sdk version
+
+Install Java
+$ sdk install java
+
+List versions available by candidate
+$ sdk list java
+
+Install desired Java version from the list
+$ sdk install java x.y.z-open
+$ sdk install java 11.0.2-open
+```
+
 ### OpenJDK
 
 Very straightforward installation
