@@ -1,6 +1,13 @@
 # Notes - Java
 
-This file serves as preface, a place describing book's content and ideas related to Java.
+Personal quick reference guide to lookup my notes on Java while learning
+
+#### Index
+
+* Installation
+* Performance Tuning
+* Design Patterns
+* Springboot
 
 
 
