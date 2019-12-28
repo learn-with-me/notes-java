@@ -7,7 +7,13 @@ Personal quick reference guide to lookup my notes on Java while learning
 * Installation
 * Performance Tuning
 * Design Patterns
-* Springboot
+* Spring-boot
+
+#### References
+
+```
+Pluralsight - Introduction to Performance tuning
+```
 
 
 
